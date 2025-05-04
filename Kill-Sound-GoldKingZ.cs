@@ -20,7 +20,7 @@ public class KillSoundGoldKingZ : BasePlugin
 {
     public override string ModuleName => "Kill Sound ( Kill , HeadShot , Quake )";
     public override string ModuleVersion => "1.1.2";
-    public override string ModuleAuthor => "Gold KingZ";
+    public override string ModuleAuthor => "Gold KingZ and GSM-RO";
     public override string ModuleDescription => "https://github.com/oqyh";
     internal static IStringLocalizer? Stringlocalizer;
     private CounterStrikeSharp.API.Modules.Timers.Timer? HUDTimer;
