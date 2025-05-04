@@ -2,3 +2,11 @@ C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\ne
 C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.csproj.CoreCompileInputs.cache
 C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.sourcelink.json
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\bin\Release\net8.0\lang\en.json
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\bin\Release\net8.0\Kill-Sound-GoldKingZ.deps.json
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\bin\Release\net8.0\Kill-Sound-GoldKingZ.dll
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\bin\Release\net8.0\Kill-Sound-GoldKingZ.pdb
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.dll
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\refint\Kill-Sound-GoldKingZ.dll
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.pdb
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\ref\Kill-Sound-GoldKingZ.dll

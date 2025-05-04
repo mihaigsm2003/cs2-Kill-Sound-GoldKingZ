@@ -3,6 +3,7 @@ using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API.Core.Attributes;
 using CounterStrikeSharp.API.Modules.Cvars;
 using CounterStrikeSharp.API;
+using CounterStrikeSharp.API.Modules.Events;
 using System.Text;
 using CounterStrikeSharp.API.Modules.Memory;
 using Kill_Sound_GoldKingZ.Config;
@@ -413,7 +414,9 @@ public class KillSoundGoldKingZ : BasePlugin
                                 {
                                     if (SShowChat && !string.IsNullOrEmpty(Localizer["chat.announce.quake.selfkill"]))
                                     {
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                                         Helper.AdvancedPrintToChat(players, Localizer["chat.announce.quake.selfkill"], victim.PlayerName);
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
                                     }
                                 }
                                 if(personData.quakehmessages)
@@ -431,7 +434,9 @@ public class KillSoundGoldKingZ : BasePlugin
                                             }
                                             if(!Globals.ShowHud_Kill.ContainsKey(players.SteamID))
                                             {
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                                                 Globals.ShowHud_Kill_Name = victim.PlayerName;
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
                                                 Globals.ShowHud_Kill.Add(players.SteamID, Localizer["center.announce.quake.selfkill"]);
                                             }
                                             HUDTimer?.Kill();
@@ -446,7 +451,9 @@ public class KillSoundGoldKingZ : BasePlugin
 
                     }else
                     {
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                         var playerid = attacker.SteamID;
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
                         Helper.PersonData personDataA = Helper.RetrievePersonDataById(playerid);
                         if(personDataA.quakesounds)
                         {
