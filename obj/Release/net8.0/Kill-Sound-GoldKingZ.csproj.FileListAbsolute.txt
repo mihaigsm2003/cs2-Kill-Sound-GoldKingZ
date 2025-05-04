@@ -1,0 +1,4 @@
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.csproj.AssemblyReference.cache
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.csproj.CoreCompileInputs.cache
+C:\Users\MihaiGsm2003\Desktop\CS2\github\cs2-Kill-Sound-GoldKingZ\obj\Release\net8.0\Kill-Sound-GoldKingZ.sourcelink.json
